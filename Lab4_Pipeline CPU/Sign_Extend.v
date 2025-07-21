@@ -1,5 +1,3 @@
-// 112550132
-
 module Sign_Extend(
     data_i,
     data_o
